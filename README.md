@@ -4,7 +4,8 @@ Shut it is an Arduino electronics project - a digital door alarm,
 that will yell at you, if it detects that the door has been open
 for too long.
 
-![project picture](https://raw.githubusercontent.com/anroots/shut-it/master/inside-look.jpg)
+![project picture - inside](https://raw.githubusercontent.com/anroots/shut-it/master/inside-look.jpg)
+![project picture - outside](https://raw.githubusercontent.com/anroots/shut-it/master/outside-look.jpg)
 
 It was created to notify colleagues about a door that should
 be closed, but was constantly left open.
